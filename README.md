@@ -9,7 +9,7 @@ http://rentry.org/UpgradeDowngrade
 Use an app on the homebrew store called aio updater and get your files needed from these websites:
 fusee - https://github.com/atmosphere-nx/atmosphere/releases
 atmosphere - https://github.com/atmosphere-nx/atmosphere/releases
-sigpatches - https://sigmapatches.su/
+sigpatches(searcxh sigpatches to find most recent release) - https://sigmapatches.su/
 
 ## How to create a custom switch theme
 
