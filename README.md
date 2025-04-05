@@ -3,6 +3,9 @@
 > [!WARNING]
 > REMOVE CUSTOM THEME WHEN UPDATING ATMOSPHERE. NOT DOING SO WILL RUIN YOUR INSTALLATION AND YOU WILL HAVE TOP RE-INSTALL ATMOSPHERE FROM SCRATCH
 
+Update Custom Firmware
+http://rentry.org/UpgradeDowngrade
+
 Use an app on the homebrew store called aio updater and get your files needed from these websites:
 fusee - https://github.com/atmosphere-nx/atmosphere/releases
 atmosphere - https://github.com/atmosphere-nx/atmosphere/releases
