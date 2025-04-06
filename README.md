@@ -7,28 +7,44 @@ Update Custom Firmware
 http://rentry.org/UpgradeDowngrade
 
 Use an app on the homebrew store called aio updater and get your files needed from these websites:
+
 atmosphere - https://github.com/atmosphere-nx/atmosphere/releases
+
 fusee - https://github.com/atmosphere-nx/atmosphere/releases
+
 sigpatches(search sigpatches to find most recent release- used to play pirated games)
 
 ## How to create a custom switch theme and layout
 the only yt video for this: https://www.youtube.com/watch?v=P0O3W8UsQO0
+#
+> [!Tip]
+> Use this website to browse created themes **https://themezer.net**
+#
+> [!Tip]
+> Use this program create layouts using a GUI
 
-Use this website to browse created themes
-https://themezer.net
-
-Use this to create layouts using a GUI
 link: https://github.com/FuryBaguette/SwitchLayoutEditor
-Import RdtBase.bflyt from your systemData folder to SwitchLayoutEditor
+
+> [!Tip]
+> Once downloaded, `import` your `RdtBase.bflyt` file from your `systemData` folder to **SwitchLayoutEditor**
+
 link: https://github.com/exelix11/SwitchThemeInjector/blob/master/DumpingFiles.md
 
-Use SwitchLayoutEditor to edit properties
-link: https://github.com/exelix11/SwitchThemeInjector/blob/master/CustomLayouts.md
-Tools -> LayoutDiff -> Select your Original non-edited .szs file then put your edited file
-Use this layout in SwitchThemeInjector to create a nxtheme (You can specify a layout, commons, background, and icons)
-OR
-Extract the components (layout.json, common.json, background.jpg, icon.png) from an existing .nxtheme file to edit the JSON to your liking!
-link: https://github.com/exelix11/SwitchThemeInjector
+> [!Tip]
+> Use **SwitchLayoutEditor** to `edit properties` and then `generate a layout diff` (Tools -> Layout diff -> Select your `untouched` **.szs** file (MainMenu, Lockscreen, Settings, etc...) -> Select your `edited` **.szs** file derived from your base) 
 
-Backgrounds must be 1280x720 (720p)
-https://www.iloveimg.com/resize-image
+link: https://github.com/exelix11/SwitchThemeInjector/blob/master/CustomLayouts.md
+
+> [!Tip]
+> Select your newly created layout file in **SwitchThemeInjector** to `build a nxtheme` (You can specify a layout, commons, background, and icons)
+> 
+> ***OR***
+> 
+> Use **SwitchThemeInjector** to `extract the components from an existing` .nxtheme file to edit the JSON to your liking! The extracted components are layout.json, common.json, background.jpg, and any icon.png
+
+link: https://github.com/exelix11/SwitchThemeInjector
+#
+> [!Tip]
+> Backgrounds must be 1280x720 (720p)
+
+link: https://www.iloveimg.com/resize-image
