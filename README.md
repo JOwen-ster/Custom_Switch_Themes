@@ -36,11 +36,11 @@ link: https://github.com/exelix11/SwitchThemeInjector/blob/master/DumpingFiles.m
 link: https://github.com/exelix11/SwitchThemeInjector/blob/master/CustomLayouts.md
 
 > [!Tip]
-> Select your newly created layout file in **SwitchThemeInjector** to `build a nxtheme` (You can specify a layout, commons, background, and icons)
+> In **SwitchThemeInjector**, select your newly created layout (the file generated from layout diff) to `build a nxtheme`. You can specify a layout patch (your layout diff file), a commons file, a background.jpg, and any/all icon.png)
 > 
 > ***OR***
 > 
-> Use **SwitchThemeInjector** to `extract the components from an existing` .nxtheme file to edit the JSON to your liking! The extracted components are layout.json, common.json, background.jpg, and any icon.png
+> Use **SwitchThemeInjector** to `extract the components from an existing` .nxtheme file to edit the JSON to your liking!
 
 link: https://github.com/exelix11/SwitchThemeInjector
 #
