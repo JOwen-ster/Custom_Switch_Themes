@@ -8,9 +8,11 @@ http://rentry.org/UpgradeDowngrade
 
 Use an app on the homebrew store called aio updater and get your files needed from these websites:
 
-atmosphere - https://github.com/atmosphere-nx/atmosphere/releases
+Atmosphere Firmware - https://github.com/atmosphere-nx/atmosphere/releases
 
 fusee - https://github.com/atmosphere-nx/atmosphere/releases
+
+Hekate Bootloader - https://github.com/CTCaer/hekate
 
 sigpatches(search sigpatches to find most recent release- used to play pirated games)
 
