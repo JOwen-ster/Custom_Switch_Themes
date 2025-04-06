@@ -38,7 +38,7 @@ link: https://github.com/exelix11/SwitchThemeInjector/blob/master/DumpingFiles.m
 link: https://github.com/exelix11/SwitchThemeInjector/blob/master/CustomLayouts.md
 
 > [!Tip]
-> In **SwitchThemeInjector**, select your newly created layout (the file generated from layout diff) to `build a nxtheme`. You can specify a layout patch (your layout diff file), a commons file, a background.jpg, and any/all icon.png)
+> In **SwitchThemeInjector**, select your newly created layout (the file generated from layout diff) to `build a nxtheme`. You can specify a layout patch (your layout diff file), a commons file, a background.jpg, and any/all icon.png), you can also use the presets in the dropdown menus or not use any present all together and just select a 1280x720 image to build a theme that has no other changes other than the background image.
 > 
 > ***OR***
 > 
