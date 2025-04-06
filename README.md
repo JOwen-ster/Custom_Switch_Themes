@@ -33,7 +33,7 @@ link: https://github.com/FuryBaguette/SwitchLayoutEditor
 link: https://github.com/exelix11/SwitchThemeInjector/blob/master/DumpingFiles.md
 
 > [!Tip]
-> Use **SwitchLayoutEditor** to `edit properties` and then `generate a layout diff` (Tools -> Layout diff -> Select your `untouched` **.szs** file (MainMenu, Lockscreen, Settings, etc...) -> Select your `edited` **.szs** file derived from your base) 
+> Use **SwitchLayoutEditor** to `edit properties` and then `generate a layout diff` (Tools -> Layout diff -> Select your `untouched` **.szs** file (MainMenu, Lockscreen, Settings, etc...) -> Select your `edited` **.szs** copy file derived from your un-touched base) 
 
 link: https://github.com/exelix11/SwitchThemeInjector/blob/master/CustomLayouts.md
 
